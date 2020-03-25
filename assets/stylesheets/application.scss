@@ -10,10 +10,6 @@ body {
   .cities {
     width: 30%;
   }
-  .city {
-    padding: 10px 0;
-    border-bottom: 1px solid white;
-  }
   .active-city {
     width: 70%;
     margin-left: 20px;
@@ -23,6 +19,9 @@ body {
     border-radius: 4px;
     h3 {
       margin-top: 0;
+    }
+    img {
+      width: 100%;
     }
   }
 }
